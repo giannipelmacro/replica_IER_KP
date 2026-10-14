@@ -28,4 +28,4 @@ MATLAB R2021b and Dynare 4.4.3.
 
 ## Contact
 
-Mathias Krogh (mathias.s.krogh@gmail.com) and Giovanni Pellegrino (giovanni.pellegrino@unipd.it)
+Mathias Krogh (mkrogh.research@gmail.com) and Giovanni Pellegrino (giovanni.pellegrino@unipd.it)
